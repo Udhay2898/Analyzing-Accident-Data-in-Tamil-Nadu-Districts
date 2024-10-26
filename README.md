@@ -1,1 +1,2 @@
 This project aims to analyze accident data across various districts in Tamil Nadu to understand patterns, trends, and contributing factors. The analysis will leverage data manipulation, statistical techniques, and visualization to derive insights and potentially inform safety measures and policies.
+ 
